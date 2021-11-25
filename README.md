@@ -7,6 +7,6 @@ Android.Csv contine una tabla de datos sobre las aplicaciones de Android
 
 Este proyecto trata de buscar un perfil de aplicaciones que puedean tener exito en cada Tienda de Apps. 
 
-En el repositorio podemos encontrar el proyecto llamado:
-El dataset de la appstore llamado:
-El dataset de la platstore llamdo:
+En el repositorio podemos encontrar el proyecto llamado: Project1 - Python Fundamentals.ipy
+El dataset de la appstore llamado: appstore.csv
+El dataset de la platstore llamdo: playstore.csv
